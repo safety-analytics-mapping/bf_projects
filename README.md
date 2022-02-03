@@ -22,7 +22,7 @@
 
 - Tasks
     - Change parameters, also some hardcoded params in query to change.
-    - Manually check fatal data for crashes within bounding box to see if they occurred on stretch of BQE for request.  
+    - Manually check fatal data for crashes within bounding box (+10 ft buffer) to see if they occurred on stretch of BQE for request.  
 
 
 ## Bronx Escooter Request - requires no param changes, weekly email to working group (Seth is looped in on them)
