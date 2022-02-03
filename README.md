@@ -54,3 +54,9 @@
     - Requires NTA table (Arthur knows where/how to create) 
     - State data, will need to transition to NYPD
     - 2014-2018, will need to update that, presumably pre-expansion years used for a specific reason
+
+# PWA - stable for latest version that Signals wanted
+- Directory: E:\RIS\Staff Folders\Samuel\Requests\SH\PWA\Code
+- Repo: To-do
+- Tasks
+    - TBD 
