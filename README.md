@@ -25,7 +25,11 @@
     - Manually check fatal data for crashes within bounding box (+10 ft buffer) to see if they occurred on stretch of BQE for request.  
 
 
-## Bronx Escooter Request - requires no param changes, weekly email to working group (Seth is looped in on them)
+## Bronx Escooter Request - requires no param changes, weekly email to working group 
 - Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/bx_escooter_crashes/BX%20Escooter%20Crashes
 - Tasks
-- 
+    - Weekly email of excel/graph outputs to group
+        - Seth is looped in on them 
+    - Future task - limit number of weeks shown on graph 
+
+## 
