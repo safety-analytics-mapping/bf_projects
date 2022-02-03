@@ -32,10 +32,18 @@
         - Seth is looped in on them 
     - Future task - limit number of weeks shown on graph 
 
-## VZ Corridor Analysis - TBD
+## VZ Corridor Analysis - required work
 - Directory: E:\RIS\Data\CrashData\RANKING\CLION_Ranking2019\QA\Severity
+- Repo: To-do
 - Tasks
-    - TBD 
+    - Required inputs (I didn't generate these, but needed for the process)
+        - VZ priority corridor creation for latest 5 years (16-20)
+        - _vz_vz_priority_corridors_yr1_yr2.shp
 
 ## Severity Memo Analysis - requires param changes
 
+
+## Stop control intersection - required changes TBD
+- Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/stop_control
+
+## 
