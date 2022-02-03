@@ -14,8 +14,8 @@
     - Output file is Excel with multiple sheets for Julia Kite.
 
 ## BQE Request - requires work + parameter changes
-- Directory: \\Dot55fp05\botplan\RIS\Staff Folders\Ayanthi\Requests\Highway Crashes 2021\Automated Tasks\Highway Crashes 
-    - Latest file: highway_Month_only.py
+- ~~Directory: \\Dot55fp05\botplan\RIS\Staff Folders\Ayanthi\Requests\Highway Crashes 2021\Automated Tasks\Highway Crashes~~ 
+    - ~~Latest file: highway_Month_only.py~~
 - Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/master/BQE_monthly
 - Seth updated the file in the repo, so more current than below.
 - ~~Ayanthi pointed me to the shared drive directory when adding notes so I’m assuming that is more current than the repo.~~
