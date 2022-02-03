@@ -45,5 +45,12 @@
 
 ## Stop control intersection - required changes TBD
 - Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/stop_control
+- Tasks
+    - Dates hardcoded for 2017-2021
 
-## 
+## Speed camera equity - required changes TBD
+- Directory: \\dotbotplan01\BOTPLAN\RIS\Requests\Citywide\Equity Assessment\speed cameras
+- Tasks
+    - Requires NTA table (Arthur knows where/how to create) 
+    - State data, will need to transition to NYPD
+    - 2014-2018, will need to update that, presumably pre-expansion years used for a specific reason
