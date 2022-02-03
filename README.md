@@ -1,6 +1,6 @@
 # Project list to pass off
 
-## Red light camera report - requires work + parameter change
+## Red light camera report - requires work + parameter changes
 
 -	Directory: E:\RIS\Requests\Citywide\RedLightCameraReport\2021 Report
     - Latest file: RLC Preliminary Analysis 2021.ipynb
@@ -21,7 +21,7 @@
 - ~~Ayanthi pointed me to the shared drive directory when adding notes so I’m assuming that is more current than the repo.~~
 
 - Tasks
-    - Change parameters, also some hardcoded params in query to change.
+    - Change month/year parameters, also some hardcoded params in query to change (from Ayanthi's script, might be outdated).
     - Manually check fatal data for crashes within bounding box (+10 ft buffer) to see if they occurred on stretch of BQE for request.  
 
 
@@ -32,4 +32,10 @@
         - Seth is looped in on them 
     - Future task - limit number of weeks shown on graph 
 
-## 
+## VZ Corridor Analysis - TBD
+- Directory: E:\RIS\Data\CrashData\RANKING\CLION_Ranking2019\QA\Severity
+- Tasks
+    - TBD 
+
+## Severity Memo Analysis - requires param changes
+
