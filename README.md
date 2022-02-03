@@ -1,6 +1,6 @@
 # Project list to pass off
 
-## Red light camera report
+## Red light camera report - requires work + parameter change
 
 -	Directory: E:\RIS\Requests\Citywide\RedLightCameraReport\2021 Report
     - Latest file: RLC Preliminary Analysis 2021.ipynb
@@ -13,3 +13,12 @@
     - Change year parameters
     - Output file is Excel with multiple sheets for Julia Kite.
 
+## BQE Request - requires work + parameter changes
+- Directory: \\Dot55fp05\botplan\RIS\Staff Folders\Ayanthi\Requests\Highway Crashes 2021\Automated Tasks\Highway Crashes 
+    - Latest file: highway_Month_only.py
+- Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/master/BQE_monthly
+- Ayanthi pointed me to the shared drive directory when adding notes so I’m assuming that is more current than the repo.
+
+- Tasks
+    - Change parameters, also some hardcoded params in query to change.
+    - Manually check fatal data for crashes within bounding box to see if they occurred on stretch of BQE for request.  
