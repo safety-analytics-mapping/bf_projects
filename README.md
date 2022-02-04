@@ -43,7 +43,7 @@
 
 ## Severity Memo Analysis - requires param changes
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
-- Repo: To-do
+- Repo: https://github.com/safety-analytics-mapping/speed-cameras (in speed_camera_equity branch for now)
 - Tasks
     - Change year params at top of notebook
     - Table in memo requires manually updating from outputs in-line in notebook
