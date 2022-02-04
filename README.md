@@ -24,7 +24,6 @@
     - Change month/year parameters, also some hardcoded params in query to change (from Ayanthi's script, might be outdated).
     - Manually check fatal data for crashes within bounding box (+10 ft buffer) to see if they occurred on stretch of BQE for request.  
 
-
 ## Bronx Escooter Request - requires no param changes, weekly email to working group 
 - Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/bx_escooter_crashes/BX%20Escooter%20Crashes
 - Tasks
@@ -41,7 +40,13 @@
         - _vz_vz_priority_corridors_yr1_yr2.shp
 
 ## Severity Memo Analysis - requires param changes
-
+- Directory
+- Repo: To-do
+- Tasks
+    - Change year params at top of notebook
+    - Table in memo requires manually updating from outputs in-line in notebook
+    - Generate CRASHDATA/vz_priority_corridors_clion_2019_19d_unique for priority corridor analysis to run
+    - Currently uses the early version of 2020 NYSDOT data in CRASHDATA, makes sense to keep in place when early version of 2021 data gets updated in that db
 
 ## Stop control intersection - required changes TBD
 - Repo: https://github.com/safety-analytics-mapping/MiscRequests/tree/stop_control
@@ -55,8 +60,9 @@
     - State data, will need to transition to NYPD
     - 2014-2018, will need to update that, presumably pre-expansion years used for a specific reason
 
-# PWA - stable for latest version that Signals wanted
+## PWA - stable for latest version that Signals wanted
 - Directory: E:\RIS\Staff Folders\Samuel\Requests\SH\PWA\Code
 - Repo: To-do
 - Tasks
     - TBD 
+- This is the latest version I know of.
