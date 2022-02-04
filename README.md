@@ -40,6 +40,7 @@
         - VZ priority corridor creation for latest 5 years (16-20)
         - _vz_vz_priority_corridors_yr1_yr2.shp
     - Don't use injury version of corridors
+    - Change labels for outputs, code will still run regardless but outputs need to correspond to correct year range
 
 ## Severity Memo Analysis - requires param changes
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
