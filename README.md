@@ -34,10 +34,12 @@
 ## VZ Corridor Analysis - required work
 - Directory: E:\RIS\Data\CrashData\RANKING\CLION_Ranking2019\QA\Severity
 - Repo: To-do
+- 
 - Tasks
     - Required inputs (I didn't generate these, but needed for the process)
         - VZ priority corridor creation for latest 5 years (16-20)
         - _vz_vz_priority_corridors_yr1_yr2.shp
+    - Don't use injury version of corridors
 
 ## Severity Memo Analysis - requires param changes
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
@@ -67,3 +69,10 @@
 - Tasks
     - TBD 
 - This is the latest version I know of, since Sam created the run script that built on top of the crash identification logic that I built and the signal controller script that he built (which should be formalized in ris db now.
+
+## Forms tams comparison - 
+ - Directory: 
+ - Repo: To-do
+ - Tasks
+    - TBD
+ - This hit a dead end 
