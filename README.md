@@ -43,7 +43,7 @@
 
 ## Severity Memo Analysis - requires param changes
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
-- Repo: https://github.com/safety-analytics-mapping/speed-cameras (in speed_camera_equity branch for now)
+- Repo: to-do
 - Tasks
     - Change year params at top of notebook
     - Table in memo requires manually updating from outputs in-line in notebook
@@ -57,7 +57,7 @@
 
 ## Speed camera equity - required changes TBD
 - Directory: \\dotbotplan01\BOTPLAN\RIS\Requests\Citywide\Equity Assessment\speed cameras
-- Repo: To-do
+- Repo: https://github.com/safety-analytics-mapping/speed-cameras (in speed_camera_equity branch for now)
 - Tasks
     - Requires NTA table (Arthur knows where/how to create) 
     - State data, will need to transition to NYPD
