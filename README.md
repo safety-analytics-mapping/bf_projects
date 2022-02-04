@@ -40,7 +40,7 @@
         - _vz_vz_priority_corridors_yr1_yr2.shp
 
 ## Severity Memo Analysis - requires param changes
-- Directory
+- Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
 - Repo: To-do
 - Tasks
     - Change year params at top of notebook
@@ -55,6 +55,7 @@
 
 ## Speed camera equity - required changes TBD
 - Directory: \\dotbotplan01\BOTPLAN\RIS\Requests\Citywide\Equity Assessment\speed cameras
+- Repo: To-do
 - Tasks
     - Requires NTA table (Arthur knows where/how to create) 
     - State data, will need to transition to NYPD
@@ -65,4 +66,4 @@
 - Repo: To-do
 - Tasks
     - TBD 
-- This is the latest version I know of.
+- This is the latest version I know of, since Sam created the run script that built on top of the crash identification logic that I built and the signal controller script that he built (which should be formalized in ris db now.
