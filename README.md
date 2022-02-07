@@ -79,8 +79,7 @@
  - This hit a dead end. Overarching working hypothesis is that we can take % change between tams and forms and compare to % change between nysdot and nysdot for same years and see if electronic reporting increased reported injuries/crashes. 
 
 ## Driver behavior study 
- - Directory:
+ - Directory: E:\RIS\Staff Folders\Bryant\Driver behavior
  - Repo: To-do
  - Tasks
-    - TBD
- - This hit a dead end 
+    - Update to fit Rob's asks for the report.
