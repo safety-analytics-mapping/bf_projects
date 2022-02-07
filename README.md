@@ -72,7 +72,14 @@
 - This is the latest version I know of, since Sam created the run script that built on top of the crash identification logic that I built and the signal controller script that he built (which should be formalized in ris db now.
 
 ## Forms tams comparison - 
- - Directory: 
+ - Directory: E:\RIS\Staff Folders\Bryant\TAMS FORMS Comparison
+ - Repo: To-do
+ - Tasks
+    - TBD
+ - This hit a dead end. Overarching working hypothesis is that we can take % change between tams and forms and compare to % change between nysdot and nysdot for same years and see if electronic reporting increased reported injuries/crashes. 
+
+## Driver behavior study 
+ - Directory:
  - Repo: To-do
  - Tasks
     - TBD
