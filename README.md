@@ -43,7 +43,7 @@
     - Don't use injury version of corridors
     - Change labels for outputs, code will still run regardless but outputs need to correspond to correct year range
 
-## Severity Memo Analysis - requires param changes
+## Severity Memo Analysis - requires param changes, code cleanup
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
 - Repo: to-do
 - Tasks
