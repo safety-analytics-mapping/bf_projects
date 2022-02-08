@@ -1,5 +1,7 @@
 # Project list to pass off
 
+# Scrap vs documented readme for each individual project folder
+
 ## Red light camera report - requires work + parameter changes
 
 -	Directory: E:\RIS\Requests\Citywide\RedLightCameraReport\2021 Report
