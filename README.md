@@ -86,3 +86,8 @@
  - Repo: https://github.com/safety-analytics-mapping/tams_remapping
  - Tasks
     - Re-run once each year to go with clion updates. 
+
+## Speed camera code
+   - Directory: E:\RIS\Data\SpeedCameras\CODE\PrioritizationCode_Current\Round1
+   - To my best knowledge this is the clean version of the code.
+ 
