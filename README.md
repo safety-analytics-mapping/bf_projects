@@ -43,7 +43,7 @@
     - Don't use injury version of corridors
     - Change labels for outputs, code will still run regardless but outputs need to correspond to correct year range
 
-## Severity Memo Analysis - requires param changes, code cleanup
+## Severity Memo Analysis - requires param changes, code cleanup to generate outputs only, archive rest
 - Directory: E:\RIS\Staff Folders\Bryant\Severity Memo
 - Repo: to-do
 - Tasks
@@ -68,15 +68,11 @@
 ## PWA - stable for latest version that Signals wanted
 - Directory: E:\RIS\Staff Folders\Samuel\Requests\SH\PWA\Code
 - Repo: To-do
-- Tasks
-    - TBD 
 - This is the latest version I know of, since Sam created the run script that built on top of the crash identification logic that I built and the signal controller script that he built (which should be formalized in ris db now.
 
 ## Forms tams comparison - not sure what next steps are
  - Directory: E:\RIS\Staff Folders\Bryant\TAMS FORMS Comparison
  - Repo: To-do
- - Tasks
-    - TBD
  - This hit a dead end. Overarching working hypothesis is that we can take % change between tams and forms and compare to % change between nysdot and nysdot for same years and see if electronic reporting increased reported injuries/crashes. 
 
 ## Driver behavior study 
